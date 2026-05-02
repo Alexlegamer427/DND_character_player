@@ -16,8 +16,8 @@
 |10th|+4|Modify Rune Spell|8|26||
 |11th|+4|Gem permutations, Capitalist Ecosystem|9|28||
 |12th|+4|Runic Mind, Feat/Ability Score increase|9|30||
-|13th|+5|Improved Gem polishing and cutting|10|32||
-|14th|+5|Improved Basics|10|34||
+|13th|+5|Spell Jamming, Improved Gem polishing and cutting|10|32||
+|14th|+5|Improved Basics, Supportting Attitude|10|34||
 |15th|+5|Buff and Debuff Stacking|10|38||
 |16th|+5|Sketching/Preparation Breakthrough, Feat/Ability Score increase|11|38||
 |17th|+6|Rune Manipulation, Disarming Speech|11|40||
@@ -39,7 +39,7 @@ Proficiencies
 **Armor:** light armor  
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows, tomes, runes  
 **Tools:** rune carving tools  
-**Saving Throws:** Intelligence, Cons  
+**Saving Throws:** Intelligence, Constitiution
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion  
 
 ---
@@ -102,41 +102,81 @@ You can cast a spell outside of combat without mana as if that spell is free. Yo
 
 ### Rune Carving
 
-### Spot Rune position
+Permet l'engravage des runes avec un kit d'artisans sur des matériaux
+Chaque engravage prend 5 min x lvl du sort, mais vous pouvez faire un brouillon utilisable instantanémant qui s'efface après un utilisation  
+Le nombre de brouillon est basé sur le proficiency bonus x int / 2 par long rest
+
+### Spot Rune position (a modif)
+
+Permet l'évaluation de l'éfficacitée d'une rune placé sur un matériaux et a quel point il se dégrade  
+(Une rune peut être placé n'importe ou mais si le matériaux n'est pas un gems il se dégrade rapidement selon le sort lancé )
 
 ### Mana conservation
 
-You can store mana by forming beads to store energy to use later (You gain 1 beads slot per 3 level)
+You can store mana by forming beads to store energy to use later  
+(You gain 1 bead slot per 3 level)
 
 ### Runic Mind
 
+Permet de créer une rune qui maintient une partie de penser ou d'action répété pour maintenir la concentration
+
+Obtient un slot au niveau 4-8-12
+
 ### Rune Overload
+
+Permet de surcharger une rune avec un sort qu'elle n'est pas capable de supporter  
+En gros, cette capacité permet de lancé un sort de haut niveau sur une mauvaise rune /matériaux mais elle créer une instabilité sur le matériaux émit
 
 ### Mana Minimalist
 
 ### Supporting Attitude
 
+Au niveau 7 débloque l'amélioration des sorts de support qui buff ou debuff les alliés et ennemies sont améliorer  
+Les sorts de supports on 2x de durée et de perfomance
+
+Au niveau a chaque 7 niveau le modificateur fait le x+1
+
 ### Spell Stealer
+
+Au niveau 9 votre personnage obtient la capacité d'apprendre un sort d'un ennemie s'il entend le nom du sort et qu'il n'est pas un rituel (Un sort appris max par short rest)
 
 ### Modify Rune Spell
 
-### Gem Permutations
+### Gem Permutations (GACHA SYSTEM SUREMENT)
 
-### Rune Concentration
+### Spell Jamming
 
-focus the power of an area spell on a singular person the more person there is in the radius the more the focused person takes damage.
+### Rune Concentration (a modif)
+
+focus the power of an area spell on a singular person the more person there is in the radius the more the focused person takes damage. (sinon changer pour le radius /5 ou 10ft du spell le modif)
 
 ### Improved basics
 
+Améliore les bases de tes runes en offrant deux points :
 
+- Rajoute ton (int x proficiency bonus) sur les sorts de dégats et la moitié arrondi au dessus sur un sort de support
+
+-  
 
 ### Buff and Debuff Stacking
+
+Permet le stacking de sort de Buff ou de Debuff sur une même personne plus qu'une fois  
+(La quantité de stacking est basé sur le int mod)
 
 ### Sketching / Preparation Breakthrough
 
 ### Rune Manipulation
 
+### Strong mind
+
+Au niveau 19 obtener une concentration accrue pour garder la concentration  
+Le bonus est basé sur le int modifier
+
 ### Spell Cover
+
+Votre personnage et les runes deployer est entourer d'un bouclier runique qui bloque automatiquement les sorts magiques de (int mod/2 arrondi vers le bas ) x (niveau/10 arrondi vers le bas)
+
+shield des runes déployé égale au même que le shield du personnage
 
 ### Runic Infusion
 
