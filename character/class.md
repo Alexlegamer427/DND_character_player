@@ -58,21 +58,18 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 
 ### Copying a Spell into the Book
 
-When you find a spell or someone teach you a spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can carve the runes on your gems and if you can spare the time to decipher and copy it.
+When you find a spell or someone teach you a spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can use , you can carve the runes on your gems and if you can spare the time to decipher and copy it.
 
-Copying a spell into the spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the spellcaster who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+Copying a spell into the spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the spellcaster to cast it. You must understand the spell until you can create it into a rune
 
-For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+For each level of the invented runes, the process takes 1 hours. The time represents the time you expend experimenting with the spell to master it, as well as the time to engrave it by praticing. Once you have spent this time, you can prepare the rune just like your other runes.
 
 ### Replacing the Book
 
-You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+You can copy a spell from your own runebook into another book for example, if you want to make a backup copy of your book. This is just like copying a new runes into your spellbook, but faster and easier, since you understand all of your runes notations. You need spend only 15 min each level of the copied rune.
 
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
-
-### The Book's Appearance
-
-Your spellbook is a unique compilation of your spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook.
+There no need to find the spells if you already learned and transcribed is version into a runes once
 
 ### Preparing and Casting Spells
 
@@ -156,7 +153,7 @@ Améliore les bases de tes runes en offrant deux points :
 
 - Rajoute ton (int x proficiency bonus) sur les sorts de dégats et la moitié arrondi au dessus sur un sort de support
 
--  
+- Cast le même sort un deuxime fois sans prix (selon le proficiencies bonus) 
 
 ### Buff and Debuff Stacking
 
