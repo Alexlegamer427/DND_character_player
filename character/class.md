@@ -131,7 +131,7 @@ En gros, cette capacité permet de lancé un sort de haut niveau sur une mauvais
 Au niveau 7 débloque l'amélioration des sorts de support qui buff ou debuff les alliés et ennemies sont améliorer  
 Les sorts de supports on 2x de durée et de perfomance
 
-Au niveau a chaque 7 niveau le modificateur fait le x+1
+Au niveau a chaque 7 niveau le modificateur fait le Nx+1
 
 ### Spell Stealer
 
