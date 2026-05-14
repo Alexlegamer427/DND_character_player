@@ -2,28 +2,32 @@
 
 ## Regular 20 lvl
 
-|Level|Proficiencies|Features|Cantrip Known|Spells Obtained Naturally|Mana|
-|---|---|---|---|---|---|
-|1st|+2|Gem polishing and cutting, Rune carving|5|5||
-|2nd|+2|Spot Rune Position, Good Eye For Gold (subclass)|5|6||
-|3rd|+2|Mana conservation|6|8||
-|4th|+2|Runic Mind, Feat/Ability Score increase|6|10||
-|5th|+3|Rune Overload, Mana minimalist|6|14||
-|6th|+3|Mana conservation|7|16||
-|7th|+3|Supportting Attitude, Good Eye For Gold (subclass)|7|18||
-|8th|+3|Runic Mind, Feat/Ability Score increase|8|20||
-|9th|+4|Spell Stealer|8|22||
-|10th|+4|Modify Rune Spell|8|26||
-|11th|+4|Gem permutations, Capitalist Ecosystem|9|28||
-|12th|+4|Runic Mind, Feat/Ability Score increase|9|30||
-|13th|+5|Spell Jamming, Improved Gem polishing and cutting|10|32||
-|14th|+5|Improved Basics, Supportting Attitude|10|34||
-|15th|+5|Buff and Debuff Stacking|10|38||
-|16th|+5|Sketching/Preparation Breakthrough, Feat/Ability Score increase|11|38||
-|17th|+6|Rune Manipulation, Disarming Speech|11|40||
-|18th|+6|Strong mind|12|42||
-|19th|+6|Spell Cover|12|44||
-|20th|+6|Runic Infusion, Feat/Ability Score increase|12|48||
+|Level|Proficiencies|Features|Cantrip Known|Spells Obtained Naturally|Mana|Limit du spellslot level|
+|---|---|---|---|---|---|---|
+|1st|+2|Gem polishing and cutting, Rune carving|5|5|2|1|
+|2nd|+2|Spot Rune Position, Good Eye For Gold (subclass)|5|6|5|1|
+|3rd|+2|Mana conservation|6|8|11|2|
+|4th|+2|Runic Mind, Feat/Ability Score increase|6|10|14|2|
+|5th|+3|Rune Overload, Mana minimalist|6|14|21|3|
+|6th|+3|Mana conservation|7|16|25|3|
+|7th|+3|Supportting Attitude, Good Eye For Gold (subclass)|7|18|30|4|
+|8th|+3|Runic Mind, Feat/Ability Score increase|8|20|35|4|
+|9th|+4|Spell Stealer|8|22|45|5|
+|10th|+4|Modify Rune Spell|8|26|51|5|
+|11th|+4|Gem permutations, Capitalist Ecosystem|9|28|58|6|
+|12th|+4|Runic Mind, Feat/Ability Score increase|9|30|59|6|
+|13th|+5|Spell Jamming, Improved Gem polishing and cutting|10|32|67|7|
+|14th|+5|Improved Basics, Supportting Attitude|10|34|68|7|
+|15th|+5|Buff and Debuff Stacking|10|38|77|8|
+|16th|+5|Sketching/Preparation Breakthrough, Feat/Ability Score increase|11|38|78|8|
+|17th|+6|Rune Manipulation, Disarming Speech|11|40|88|9|
+|18th|+6|Strong mind|12|42|94|9|
+|19th|+6|Spell Cover|12|44|101|9|
+|20th|+6|Runic Infusion, Feat/Ability Score increase|12|48|109|9|
+
+---
+
+ Ps : les sorts convertie en mana donne 1x spellslot
 
 ---
 
@@ -153,7 +157,7 @@ Améliore les bases de tes runes en offrant deux points :
 
 - Rajoute ton (int x proficiency bonus) sur les sorts de dégats et la moitié arrondi au dessus sur un sort de support
 
-- Cast le même sort un deuxime fois sans prix (selon le proficiencies bonus) 
+- Cast le même sort un deuxime fois sans prix (selon le proficiencies bonus)
 
 ### Buff and Debuff Stacking
 
