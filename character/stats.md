@@ -9,9 +9,15 @@
 |Constitution|14|+2|
 |Strength|8|-1|
 |Dexterity|(16) 14+2|+3|
-|Constitution|8|-1|
-|Constitution|16|+3|
-|Constitution|(16) 15+1|+3|
+|Wisdom|8|-1|
+|Intelligence|16|+3|
+|Charisma|(16) 15+1|+3|
+
+
+## Saving throws
+
+
+
 
 ## Proficiencies & Skill checks
 
