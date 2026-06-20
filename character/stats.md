@@ -13,11 +13,16 @@
 |Intelligence|16|+3|
 |Charisma|(16) 15+1|+3|
 
-
 ## Saving throws
 
-
-
+|Stats Type|Proficient|Bonus|
+|---|---|---|
+|Constitution|X|+4|
+|Strength||-1|
+|Dexterity||+3|
+|Wisdom||-1|
+|Intelligence|X|+5|
+|Charisma||+3|
 
 ## Proficiencies & Skill checks
 
@@ -52,6 +57,8 @@
 `` Basiquement un hunter ``
 
 - [Background Description](character.md)
-- Background Feat : [Scout](https://dnd5e.wikidot.com/fighter:scout-ua)
+- Background Feat : [Alert](https://dnd5e.wikidot.com/feat:alert)
 
 ## Feats
+
+- [Alert](https://dnd5e.wikidot.com/feat:alert)

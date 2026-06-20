@@ -41,9 +41,9 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per rune lo
 
 Proficiencies  
 **Armor:** light armor  
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows, tomes, runes  
+**Weapons:** Daggers, cimetars, rapiers darts, slings, quarterstaffs, light crossbows, tomes, runes  
 **Tools:** rune carving tools  
-**Saving Throws:** Intelligence, Constitiution
+**Saving Throws:** Intelligence, Constitution
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion  
 
 ---
